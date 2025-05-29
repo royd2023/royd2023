@@ -14,7 +14,7 @@
 
 <h3 align="left">Resume:</h3>
 <p align="left">
-  <a href="https://docs.google.com/document/d/1dkXNxVWo9gTeinb7V8V56EBu5Go7qwT6cMyBsBsTRVY/edit?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1A8yGzRxop4x6uyChKVegoh2-gXjiyC6n/view?usp=sharing" target="_blank">
     View my resume
   </a>
 </p>
