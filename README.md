@@ -14,8 +14,7 @@
 
 <h3 align="left">Resume:</h3>
 <align="left">
-<a href="https://docs.google.com/document/d/1dkXNxVWo9gTeinb7V8V56EBu5Go7qwT6cMyBsBsTRVY/edit?usp=sharing" 
-</a>
+<a href="https://docs.google.com/document/d/1dkXNxVWo9gTeinb7V8V56EBu5Go7qwT6cMyBsBsTRVY/edit?usp=sharing" target="blank"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
