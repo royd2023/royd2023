@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Boxure, a blinx box opening website!**
 
-- 🌱 I’m currently learning **Arch linux, Node.js, Postgresql, React**
+- 🌱 I’m currently learning **Arch linux, Node.js, Postgresql, React, Tensorflow, Pytorch**
 
 - 📫 How to reach me **rdinh2023@gmail.com**
 
