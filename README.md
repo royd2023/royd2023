@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A computer science student at Ohio State University</h3>
 
-- 🔭 I’m currently working on **Boxure, a blinx box opening website!**
-
-- 🌱 I’m currently learning **Arch linux, Node.js, Postgresql, React, Tensorflow, Pytorch**
+- 🌱 I’m currently learning **CUDA, GPU programming, machine learning**
 
 - 📫 How to reach me **rdinh2023@gmail.com**
 
